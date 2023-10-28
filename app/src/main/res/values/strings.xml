@@ -1,5 +1,10 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">My Git Hub</string>
     <string name="Website_Link">https://github.com/nasim650</string>
+=======
+    <string name="app_name">Web2App PRO</string>
+    <string name="Website_Link">https://ecommerce.bongotech.xyz/</string>
+>>>>>>> origin/main
 
 </resources>
